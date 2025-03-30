@@ -67,3 +67,9 @@ window.paul_list = [
     "Get Enough", "Home Tonight", "In A Hurry",
     "Long Tailed Winter Bird", "Find My Way", "Pretty Boys", "Women and Wives", "Lavatory Lil", "Deep Deep Feeling", "Slidin'", "The Kiss of Venus", "Seize The Day", "Deep Down", "Winter Bird/When Winter Comes"
 ];
+
+// Uncomment songs if you want to also rank them, technically some Paul B-sides are missing.
+
+
+// DEFINE MORE LISTS HERE IF WANTED
+// eg. window.example_list = ["Song Title A", "Song Title B", "Song Title C"]
